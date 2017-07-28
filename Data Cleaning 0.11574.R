@@ -7,6 +7,7 @@ library(Amelia)
 library(mice)
 library(caret)
 library(lattice)
+library(ggplot2)
 
 setwd("H:/tklarkin_backup/Documents/Kaggle/Housing")
 
